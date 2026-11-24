@@ -1,0 +1,14 @@
+[
+  {
+    "date": "2026-10-18",
+    "type": "income",
+    "category": "job",
+    "amount": 1000
+  },
+  {
+    "date": "2026-10-18",
+    "type": "expense",
+    "category": "food",
+    "amount": 300
+  }
+]
