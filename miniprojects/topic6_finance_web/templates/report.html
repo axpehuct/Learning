@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+
+<body>
+    <h1>Баланс: {{ balance }} руб.</h1>
+    <ul>
+        {% for category, amount in report %}
+        <li>{{ category }} — {{ amount }} руб.</li>
+        {% endfor %}
+    </ul>
+
+</body>
+
+</html>
